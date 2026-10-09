@@ -1,0 +1,21 @@
+JANE SMITH
+Data Analyst
+Email: jane.smith@example.test | Location: Chicago, IL
+
+SUMMARY
+Data analyst with 4 years of experience translating business questions into clear metrics.
+
+SKILLS
+SQL, Tableau, Excel, Python, pandas, data visualization, stakeholder communication
+
+EXPERIENCE
+Data Analyst, Lakeview Retail (2022-Present)
+- Built Tableau dashboards used by sales and operations leaders.
+- Used Python and SQL to clean and analyze customer purchase data.
+- Presented monthly findings to cross-functional stakeholders.
+
+Business Intelligence Associate, Market Street Co. (2020-2022)
+- Maintained recurring reports and validated source data.
+
+EDUCATION
+B.A. Economics, University of Illinois Chicago, 2020

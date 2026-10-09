@@ -1,0 +1,21 @@
+ALEX CHEN
+Product Designer
+Email: alex.chen@example.test | Location: Seattle, WA
+
+SUMMARY
+Product designer with 6 years of experience creating accessible web and mobile products.
+
+SKILLS
+Figma, user research, prototyping, design systems, accessibility, usability testing
+
+EXPERIENCE
+Senior Product Designer, Harbor Apps (2021-Present)
+- Led research and interaction design for a customer onboarding redesign.
+- Improved successful onboarding completion by 18%.
+- Established shared components with engineering partners.
+
+Product Designer, Brightline Studio (2018-2021)
+- Delivered responsive designs for education and nonprofit clients.
+
+EDUCATION
+B.F.A. Interaction Design, California College of the Arts, 2018

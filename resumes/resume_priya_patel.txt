@@ -1,0 +1,21 @@
+PRIYA PATEL
+Machine Learning Engineer
+Email: priya.patel@example.test | Location: Boston, MA
+
+SUMMARY
+Machine learning engineer focused on reliable NLP and recommendation systems.
+
+SKILLS
+Python, PyTorch, scikit-learn, NLP, Docker, Kubernetes, model evaluation
+
+EXPERIENCE
+Machine Learning Engineer, Beacon Research (2022-Present)
+- Trained and evaluated text classification models for support workflows.
+- Deployed Python inference services and monitoring dashboards.
+- Partnered with data scientists to improve dataset quality.
+
+Data Science Resident, Elm Analytics (2021-2022)
+- Built recommendation prototypes and documented evaluation results.
+
+EDUCATION
+M.S. Computer Science, Northeastern University, 2021

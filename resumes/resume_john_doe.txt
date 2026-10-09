@@ -1,0 +1,21 @@
+JOHN DOE
+Software Engineer
+Email: john.doe@example.test | Location: Austin, TX
+
+SUMMARY
+Software engineer with 5 years of experience building web services and data tools.
+
+SKILLS
+Python, Django, FastAPI, PostgreSQL, Docker, AWS, Git
+
+EXPERIENCE
+Software Engineer, Cedar Systems (2022-Present)
+- Built Python APIs serving internal analytics products.
+- Reduced report generation time by 35% through query and caching improvements.
+- Collaborated with product and design teams in two-week Agile cycles.
+
+Junior Developer, Northstar Labs (2020-2022)
+- Maintained Django services and added automated tests.
+
+EDUCATION
+B.S. Computer Science, University of Texas at Austin, 2020

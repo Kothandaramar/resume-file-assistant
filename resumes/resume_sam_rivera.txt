@@ -1,0 +1,21 @@
+SAM RIVERA
+Cloud DevOps Engineer
+Email: sam.rivera@example.test | Location: Raleigh, NC
+
+SUMMARY
+Cloud DevOps engineer with 7 years of experience automating deployment platforms.
+
+SKILLS
+AWS, Terraform, Kubernetes, CI/CD, Linux, Bash, observability, Python
+
+EXPERIENCE
+Cloud DevOps Engineer, Pinecone Networks (2020-Present)
+- Automated infrastructure provisioning with Terraform and reusable modules.
+- Built CI/CD pipelines that reduced deployment time by 40%.
+- Improved service reliability through dashboards and incident reviews.
+
+Systems Engineer, Red Oak Digital (2017-2020)
+- Supported Linux services and containerized internal applications.
+
+EDUCATION
+B.S. Information Systems, North Carolina State University, 2017

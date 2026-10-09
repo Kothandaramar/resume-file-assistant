@@ -1,0 +1,21 @@
+MORGAN LEE
+IT Support Specialist
+Email: morgan.lee@example.test | Location: Denver, CO
+
+SUMMARY
+IT support specialist with 5 years of experience supporting distributed teams.
+
+SKILLS
+Windows, macOS, Microsoft 365, Active Directory, networking, ticketing systems
+
+EXPERIENCE
+IT Support Specialist, Summit Services (2021-Present)
+- Resolve hardware, account, and connectivity issues for 300 employees.
+- Maintain onboarding checklists and knowledge-base articles.
+- Track service trends and communicate recurring issues to IT leads.
+
+Help Desk Technician, Aspen Group (2019-2021)
+- Triaged service requests and supported workstation rollouts.
+
+EDUCATION
+A.A.S. Information Technology, Front Range Community College, 2019
